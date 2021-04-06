@@ -1,8 +1,6 @@
 ## Growth Mindset
 
-You can use the [editor on GitHub](https://github.com/royce79-creator/reading-notes/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+What is a growth mindset? Well it's a state of mind that allows you to be teachable through working through frustrations, failure, and challenges. Overall, I beleive that having a focude mind set on the end goal and maing attainable goals along the way keeps you in state of mind that will allow you to keep yourself in a growth mindset. Facing those hard challenges head on instead of giving up is ideally getting your mind to grow with wisdom and knowledge that can solidify growth. Things I plan on doing to keep myself in this growth mindset is to reflect on my days and see what I could have done better. Second, seek help when I don't understand something and use resources and peers alike to find the answers. Finally, Making concrete goals for myeself that I can achieve in weekly to monthly timelines. 
 
 ### Markdown
 
