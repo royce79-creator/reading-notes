@@ -12,30 +12,12 @@
 - [x] Ask for help 
 - [x] Don't give up!  
 
-```markdown
-Syntax highlighted code block
+### Basketball's a lifestyle
+When I want to take a break from coding I love to play some basketball. It just allows you to burn a whole lot of calories but also centers your mind by having you think of something else. Below is an image link to a ball swishing into a net. Probably the most ASMR like sound you can get. 
+https://images.unsplash.com/photo-1546519638-68e109498ffc?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=2267&q=80
 
-# Header 1
-## Header 2
-### Header 3
+### Let's Collaborate! 
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/royce79-creator/reading-notes/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+If you ever want to contact me or get a hold of me for new projects just contact me here: 
+connorsboyce07@gmail.com 
+206-375-2746
