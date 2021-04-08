@@ -22,4 +22,4 @@ If you ever want to contact me or get a hold of me for new projects just contact
 - connorsboyce07@gmail.com 
 - 206-375-2746
 
-[https://github.com/royce79-creator/reading-notes/blob/main/Learning%20Code](# Terminal) 
+
