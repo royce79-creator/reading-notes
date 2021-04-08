@@ -23,4 +23,5 @@ If you ever want to contact me or get a hold of me for new projects just contact
 - 206-375-2746
 
 
-[Mark Down](https://github.com/royce79-creator/reading-notes/blob/a72ae991e1135b6b8364b8fc029acc65344f29f1/learning_markdown.md)
+[Mark Down](leanring_markdown.md)
+[Terminal](terminal_cheatsheet.md)
