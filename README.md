@@ -23,5 +23,7 @@ If you ever want to contact me or get a hold of me for new projects just contact
 - 206-375-2746
 
 
-[Mark Down](leanring_markdown.md)
-[Terminal](terminal_cheatsheet.md)
+[Mark Down](leanring_markdown.md) 
+[Terminal](terminal_cheatsheet.md) 
+[Text Editors](text_editors.md)
+
