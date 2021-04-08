@@ -21,3 +21,5 @@ https://images.unsplash.com/photo-1546519638-68e109498ffc?ixid=MXwxMjA3fDB8MHxwa
 If you ever want to contact me or get a hold of me for new projects just contact me here: 
 - connorsboyce07@gmail.com 
 - 206-375-2746
+
+[https://github.com/royce79-creator/reading-notes/blob/main/Learning%20Code](# Terminal) 
