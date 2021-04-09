@@ -22,8 +22,9 @@ If you ever want to contact me or get a hold of me for new projects just contact
 - connorsboyce07@gmail.com 
 - 206-375-2746
 
+# Table of Contents
 
-[Mark Down](leanring_markdown.md) 
-[Terminal](terminal_cheatsheet.md) 
-[Text Editors](text_editors.md)
-[Git Tutorial](git_tutorial.md)
+[Mark Down](leanring_markdown.md)   
+[Terminal](terminal_cheatsheet.md)   
+[Text Editors](text_editors.md)  
+[Git Tutorial](git_tutorial.md)  
