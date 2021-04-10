@@ -41,13 +41,10 @@ Ordered
 Everyone wants images to looks at when they visit a page, so if you want to insert images into you page all you need to do is follow the syntax below.
 - [Cool Picture](https://cdn.pixabay.com/photo/2019/10/21/10/33/garden-4565700__480.jpg)
 ```
-![GitHub Logo](/images/logo.png)
+![sample](image.png)
 Format: ![Alt Text](url)
 Links
-http://github.com - automatic!
-[GitHub](http://github.com)
 ```
-
 ## Blockquotes
 ``` 
 As Kanye West said:
@@ -59,3 +56,11 @@ I think you should use an
 `<addr>` element here instead.
 ```
 
+### Tables
+- This is a way to make tables in your markdown. Really useful when trying to compare things in you pages. 
+```
+| Syntax      | Description |
+| ----------- | ----------- |
+| Header      | Title       |
+| Paragraph   | Text        |
+```

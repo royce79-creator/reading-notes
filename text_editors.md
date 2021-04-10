@@ -41,7 +41,7 @@ TextWrangler/ BB Edit -> Mac only*
 Only supports HTML, CSS and Javascript 
 - “Live Preview” updates websites once changes are made. 
 
-Sublime text 
+### Sublime text 
 Premium of text editors. 
 
 The Difference Between Text Editors and IDEs 
