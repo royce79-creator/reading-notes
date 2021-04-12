@@ -29,3 +29,5 @@ If you ever want to contact me or get a hold of me for new projects just contact
 [Text Editors](text_editors.md)  
 [Git Tutorial](git_tutorial.md)  
 [HTML Notes](html.md)
+[CSS Learning](css.md)
+[javascript Notes](javascript.md)
