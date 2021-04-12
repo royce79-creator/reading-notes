@@ -24,7 +24,8 @@ If you ever want to contact me or get a hold of me for new projects just contact
 
 # Table of Contents
 
-[Mark Down](leanring_markdown.md)   
+[Mark Down](learning_markdown.md)   
 [Terminal](terminal_cheatsheet.md)   
 [Text Editors](text_editors.md)  
 [Git Tutorial](git_tutorial.md)  
+[HTML Notes](html.md)
