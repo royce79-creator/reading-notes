@@ -1,0 +1,28 @@
+# How Computer's work
+
+## Introduction
+- refer to : (https://www.youtube.com/watch?v=OAx_6-wdslM&list=PLzdnOPI1iJNcsRwJhvksEo1tJqjIqWbN-&index=1)
+- The most important things computers do is inputting, processing, storage, and finally the output. 
+- Software controls the hradware. 
+
+## What make's a Computer, a Computer? 
+- In the past humans have alwasy wanted to make processes easier by making machines. 
+- Take input, storage, process the ifno, and then generate an output. 
+- There are a lot of mediums of what inout is made for example there is sound, touch, information, etc. 
+- Storage and processing: processor changes the information and changes it then stores it after outputted. 
+- Output: can be a way for some type of information being snet out or iterpreted by the computer. 
+
+## Binary & Data
+- Numbers can represent al types of data types from images to sound. It's all having to do with 1's and 0's. 
+- Binary number system is all about positioning of each number and all data out outputs can be represented with this. 
+- images and phyiscal videos have pixels that are reprsented by 1's and 0's when communicating them to an output on the display. 
+- More bits with sound allow people to have better frequency. 
+
+## Circuits and Logic
+- Circuits are used for signaling circuits and give you a yes or no, on or off. 
+- first and second signal are wither "or" as well as "and"
+- Adders Allows two circuits to accumulate an answer. 
+- Modern day circutis make billions of calculations. 
+
+## CPU, Memory, Input & Output
+- Sens
