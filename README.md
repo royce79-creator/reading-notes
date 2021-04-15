@@ -31,3 +31,6 @@ If you ever want to contact me or get a hold of me for new projects just contact
 [HTML Notes](html.md)
 [CSS Learning](css.md)
 [javascript Notes](javascript.md)
+[Operators and Loops](operators_loops.md)
+[Programmming with Javascript](programming_with_javascript.md)
+[How Computer Work](how_computers_work.md)
