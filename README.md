@@ -1,4 +1,6 @@
-# Student and IT Professional
+# Code 102 Reading Notes
+
+## Student and IT Professional
 
   Hello, my name is Connor Boyce and I am excited for the new world of coding and can't wait to get started on my journey becoming a software developer. I am a Korean American who enjoys gaming, basketball, anime, and learning. My background, is within the IT industry! I'm honestly super excited to learn about the software development industry, being rmeote seems like the best way to live healhty lifestlye.  My preferred pronouns are him, his, and he.
 
@@ -34,3 +36,17 @@ If you ever want to contact me or get a hold of me for new projects just contact
 [Operators and Loops](operators_loops.md).   
 [Programmming with Javascript](programming_with_javascript.md).  
 [How Computer Work](how_computers_work.md). 
+
+# Code 201 Reading Notes
+
+## What's all this about? 
+- Well in this next course I will be going through and learning all the extra skills that will help me with gaing the ability to use code in a lot of new and creative ways. I can't wait!
+
+# Table of Contents
+| Readings     |  What they include
+| -----------  | ----------- |
+| placeholder  | Text        |
+| placeholder  | Text        |
+| placeholder  | Text        |
+| placeholder  | Text        |
+| placeholder  | Text        |
