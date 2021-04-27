@@ -1,3 +1,18 @@
+# Code 201 Reading Notes
+
+## What's all this about? 
+- Well in this next course I will be going through and learning all the extra skills that will help me with gaing the ability to use code in a lot of new and creative ways. I can't wait!
+
+# Table of Contents
+| Readings     |  What they include
+| -----------  | ----------- |
+| Reading 01   | [HTML & Javascript](class-01.md)       |
+| placeholder  | Text        |
+| placeholder  | Text        |
+| placeholder  | Text        |
+| placeholder  | Text        |
+
+
 # Code 102 Reading Notes
 
 ## Student and IT Professional
@@ -37,16 +52,3 @@ If you ever want to contact me or get a hold of me for new projects just contact
 [Programmming with Javascript](programming_with_javascript.md).  
 [How Computer Work](how_computers_work.md). 
 
-# Code 201 Reading Notes
-
-## What's all this about? 
-- Well in this next course I will be going through and learning all the extra skills that will help me with gaing the ability to use code in a lot of new and creative ways. I can't wait!
-
-# Table of Contents
-| Readings     |  What they include
-| -----------  | ----------- |
-| Reading 01   | [HTML & Javascript](class-01.md)       |
-| placeholder  | Text        |
-| placeholder  | Text        |
-| placeholder  | Text        |
-| placeholder  | Text        |
