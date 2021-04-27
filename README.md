@@ -45,7 +45,7 @@ If you ever want to contact me or get a hold of me for new projects just contact
 # Table of Contents
 | Readings     |  What they include
 | -----------  | ----------- |
-| placeholder  | Text        |
+| Reading 01   | [HTML & Javascript](class-01.md)       |
 | placeholder  | Text        |
 | placeholder  | Text        |
 | placeholder  | Text        |
