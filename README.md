@@ -7,7 +7,7 @@
 | Readings     |  What they include
 | -----------  | ----------- |
 | Reading 01   | [HTML & Javascript](class-01.md)       |
-| placeholder  | Text        |
+| reading 02   | [Javascript & HTML](class-02.md)        |
 | placeholder  | Text        |
 | placeholder  | Text        |
 | placeholder  | Text        |
