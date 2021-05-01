@@ -114,10 +114,11 @@ color is the "property" and "blue" is the value.
 - Javascript is Case sensitive so be careful when referring to certain things since that will effect how the computer interprets it. 
 - Comments in javascript are super useful to explaining what the code is trying to accomplish. Usually represented by "//". 
 - In the example below we see what a variable is and what it is assigned in a value. 
-``` 
+```
 var quantity;
-quantity = 4; 
-``` 
+quantity = 4;
+```
+
 **Data Types** 
 - There are different types of data types like boolean, numbers and string. (Pg.62)
 
