@@ -8,7 +8,7 @@
 | -----------  | ----------- |
 | Reading 01   | [HTML & Javascript](class-01.md)       |
 | reading 02   | [Javascript & HTML](class-02.md)        |
-| Reading 03   | [Boxes HTML & Decision loops](class-03.md)       |
+| Reading 03   | [Boxes HTML & Decision loops](class-03.md)       | Reading 04   | [JQuery & HTML Lines variables](class-04.md)
 | placeholder  | Text        |
 | placeholder  | Text        |
 
