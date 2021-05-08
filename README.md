@@ -9,7 +9,7 @@
 | Reading 01   | [HTML & Javascript](class-01.md)       |
 | reading 02   | [Javascript & HTML](class-02.md)        |
 | Reading 03   | [Boxes HTML & Decision loops](class-03.md)       | Reading 04   | [JQuery & HTML Lines variables](class-04.md)
-| placeholder  | Text        |
+| Reading 05   | [CSS font, iamges, color](class-05.md)       |
 | placeholder  | Text        |
 
 
@@ -26,7 +26,7 @@
 ### Check List for Growth
 
 - [x] Set a routine
-- [x] Ask for help 
+- [x] Ask for help
 - [x] Don't give up!  
 
 ### Basketball's a lifestyle
