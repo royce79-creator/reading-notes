@@ -10,7 +10,7 @@
 | reading 02   | [Javascript & HTML](class-02.md)        |
 | Reading 03   | [Boxes HTML & Decision loops](class-03.md)       | Reading 04   | [JQuery & HTML Lines variables](class-04.md)
 | Reading 05   | [CSS font, iamges, color](class-05.md)       |
-| placeholder  | Text        |
+| Reading 06  | [JS DOM, Objects](class-06.md)        |
 
 
 # Code 102 Reading Notes
