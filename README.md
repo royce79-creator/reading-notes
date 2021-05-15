@@ -11,6 +11,7 @@
 | Reading 03   | [Boxes HTML & Decision loops](class-03.md)       | Reading 04   | [JQuery & HTML Lines variables](class-04.md)
 | Reading 05   | [CSS font, iamges, color](class-05.md)       |
 | Reading 06  | [JS DOM, Objects](class-06.md)        |
+| Reading 07  | [Tables & FMO](class-07.md)    |
 
 
 # Code 102 Reading Notes
