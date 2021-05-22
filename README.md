@@ -13,6 +13,7 @@
 | Reading 06  | [JS DOM, Objects](class-06.md)        |
 | Reading 07  | [Tables & FMO](class-07.md)    |
 | Reading 08  | [Layout CSS](class-08.md)      |
+| Reading 09  | [Forms, Lists, tables, Events](class-09.md)   |
 
 
 # Code 102 Reading Notes
