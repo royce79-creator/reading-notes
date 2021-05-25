@@ -14,6 +14,7 @@
 | Reading 07  | [Tables & FMO](class-07.md)    |
 | Reading 08  | [Layout CSS](class-08.md)      |
 | Reading 09  | [Forms, Lists, tables, Events](class-09.md)   |
+| Reading 10  | [JS Debugging](class-10.md)    |
 
 
 # Code 102 Reading Notes
