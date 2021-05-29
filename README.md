@@ -15,7 +15,7 @@
 | Reading 08  | [Layout CSS](class-08.md)      |
 | Reading 09  | [Forms, Lists, tables, Events](class-09.md)   |
 | Reading 10  | [JS Debugging](class-10.md)    |
-
+| Reading 11  | [CSS and Pracical Info](class-11.md)  |
 
 # Code 102 Reading Notes
 
