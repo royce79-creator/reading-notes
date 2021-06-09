@@ -18,6 +18,7 @@
 | Reading 11  | [CSS and Pracical Info](class-11.md)  |
 | Reading 12   | [Charts & canvas](class-12.md)   |
 | Reading 13  |  [Local Storage](class-13.md)     |
+| Reading 14a&b | [CSS3 Transitions](class-14a&b.md)   |
 # Code 102 Reading Notes
 
 ## Student and IT Professional
