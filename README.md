@@ -1,9 +1,16 @@
+# Code 301 Reading Notes
+
+## Notes on 301 Course Work!!
+
+# Table of Contents
+[Introduction to React & Components](301-class-01.md)
+
 # Code 201 Reading Notes
 
 ## What's all this about? 
 - Well in this next course I will be going through and learning all the extra skills that will help me with gaing the ability to use code in a lot of new and creative ways. I can't wait!
 
-# Table of Contents
+# Table of Contents 201
 | Readings     |  What they include
 | -----------  | ----------- |
 | Reading 01   | [HTML & Javascript](class-01.md)       |
@@ -45,7 +52,7 @@ If you ever want to contact me or get a hold of me for new projects just contact
 - connorsboyce07@gmail.com 
 - 206-375-2746
 
-# Table of Contents
+# Table of Contents 102
 
 [Mark Down](learning_markdown.md)   
 [Terminal](terminal_cheatsheet.md)   
