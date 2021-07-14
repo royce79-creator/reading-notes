@@ -4,6 +4,7 @@
 
 # Table of Contents
 [Introduction to React & Components](301-class-01.md)
+[State and Props](301-class-02.md)
 
 # Code 201 Reading Notes
 
