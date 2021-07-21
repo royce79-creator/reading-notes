@@ -5,6 +5,8 @@
 # Table of Contents
 [Introduction to React & Components](301-class-01.md)
 [State and Props](301-class-02.md)
+[Passing Functions as Props](301-classv-03.md)
+[React & Forms](301-class-04.md)
 
 # Code 201 Reading Notes
 
