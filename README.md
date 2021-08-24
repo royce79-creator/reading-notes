@@ -8,6 +8,7 @@
 [Passing Functions as Props](301-classv-03.md)
 [React & Forms](301-class-04.md)
 [Node.Js + Peer Programming](301-class-06.md)
+[Diversity & Inclusion](301-class-14.md)
 
 # Code 201 Reading Notes
 
