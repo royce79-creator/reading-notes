@@ -7,6 +7,7 @@
 [State and Props](301-class-02.md)
 [Passing Functions as Props](301-class-03.md)
 [React & Forms](301-class-04.md)
+[Thinking in React](301-class-05.md)
 [Node.Js + Peer Programming](301-class-06.md)
 [Diversity & Inclusion](301-class-14.md)
 
