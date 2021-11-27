@@ -17,11 +17,13 @@
 - Well in this next course I will be going through and learning all the extra skills that will help me with gaing the ability to use code in a lot of new and creative ways. I can't wait!
 
 # Table of Contents 201
+
 | Readings     |  What they include
 | -----------  | ----------- |
 | Reading 01   | [HTML & Javascript](class-01.md)       |
 | reading 02   | [Javascript & HTML](class-02.md)        |
-| Reading 03   | [Boxes HTML & Decision loops](class-03.md)       | Reading 04   | [JQuery & HTML Lines variables](class-04.md)
+| Reading 03   | [Boxes HTML & Decision loops](class-03.md)
+| Reading 04   | [JQuery & HTML Lines variables](class-04.md)
 | Reading 05   | [CSS font, iamges, color](class-05.md)       |
 | Reading 06  | [JS DOM, Objects](class-06.md)        |
 | Reading 07  | [Tables & FMO](class-07.md)    |
@@ -29,9 +31,10 @@
 | Reading 09  | [Forms, Lists, tables, Events](class-09.md)   |
 | Reading 10  | [JS Debugging](class-10.md)    |
 | Reading 11  | [CSS and Pracical Info](class-11.md)  |
-| Reading 12   | [Charts & canvas](class-12.md)   |
+| Reading 12  | [Charts & canvas](class-12.md)   |
 | Reading 13  |  [Local Storage](class-13.md)     |
 | Reading 14a&b | [CSS3 Transitions](class-14a&b.md)   |
+
 # Code 102 Reading Notes
 
 ## Student and IT Professional
