@@ -1,15 +1,21 @@
 # Code 301 Reading Notes
 
+## Notes for Python 401
+
+# Table of Contents 401
+1. [Prep your Mindset](401-class-prep.md)
+2. [Testing and Modules](401-class-02.md)
+
 ## Notes on 301 Course Work!!
 
 # Table of Contents
-[Introduction to React & Components](301-class-01.md)
-[State and Props](301-class-02.md)
-[Passing Functions as Props](301-class-03.md)
-[React & Forms](301-class-04.md)
-[Thinking in React](301-class-05.md)
-[Node.Js + Peer Programming](301-class-06.md)
-[Diversity & Inclusion](301-class-14.md)
+1. [Introduction to React & Components](301-class-01.md)
+2. [State and Props](301-class-02.md)
+3. [Passing Functions as Props](301-class-03.md)
+4. [React & Forms](301-class-04.md)
+5. [Thinking in React](301-class-05.md)
+6. [Node.Js + Peer Programming](301-class-06.md)
+7. [Diversity & Inclusion](301-class-14.md)
 
 # Code 201 Reading Notes
 
@@ -18,7 +24,7 @@
 
 # Table of Contents 201
 
-| Readings     |  What they include
+| Readings     |  What they include  |
 | -----------  | ----------- |
 | Reading 01   | [HTML & Javascript](class-01.md)       |
 | reading 02   | [Javascript & HTML](class-02.md)        |
