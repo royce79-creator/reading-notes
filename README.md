@@ -5,6 +5,8 @@
 # Table of Contents 401
 1. [Prep your Mindset](401-class-prep.md)
 2. [Testing and Modules](401-class-02.md)
+3. []
+4. [Reading Class 04](401-class-04.md)
 
 ## Notes on 301 Course Work!!
 
