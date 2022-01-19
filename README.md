@@ -8,6 +8,7 @@
 3. []
 4. [Reading Class 04](401-class-04.md)
 8. [Reading Class 08](401-class-08.md)
+12. [Reading class 12](401-clss-12.md)
 
 ## Notes on 301 Course Work!!
 
