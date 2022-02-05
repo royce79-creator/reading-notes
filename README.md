@@ -11,6 +11,7 @@
 12. [Reading class 12](401-class-12.md)
 13. [Reading class 13](401-class-13.md)
 14. [Reading class 14](401-class-14.md)
+17. [Reading class 17](401-class-17.md)
 
 ## Notes on 301 Course Work!!
 
